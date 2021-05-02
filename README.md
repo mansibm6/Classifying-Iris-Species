@@ -3,7 +3,9 @@
 #### -- Project Status: [Completed]
 
 ## Project Objective
-The purpose of this project is to classifiy a dataset of petal and sepal lenghts and widths to 3 separate classes using a neural network.
+The purpose of this project is to train a neural network to identify hand drawn images of squares, triangles and circles.
+
+### Dataset: https://www.kaggle.com/cactus3/basicshapes
 
 ### Methods Used
 * Deep Learning
@@ -15,7 +17,7 @@ The purpose of this project is to classifiy a dataset of petal and sepal lenghts
 * TensorFlow
 * NumPy
 * Scikit-Learn
-* Neural Networks
+* Convolutional Neural Networks
 
 ## Project Description
-In this project, I worked on the iris dataset from scikit-learns dataset library. I created a neural network to to classify flowers into 3 classes - 'setosa', 'versicolor', and 'virginica' based on the length and width of the sepals and petals.
+In this project, I worked on a dataset from kaggle consisting hand drawn images of squares, triangles and circles. I trained a convolutional neural network on this data and made predictions using random test images downloaded from google.
