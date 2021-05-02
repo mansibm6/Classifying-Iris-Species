@@ -8,7 +8,7 @@ The purpose of this project is to classifiy a dataset of petal and sepal lenghts
 ### Methods Used
 * Deep Learning
 * Data Visualization
-* Regression Analysis
+* Categorical Classification
 
 ### Technologies
 * Python
